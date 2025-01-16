@@ -1,0 +1,2 @@
+SELECT DepartmentName
+FROM Departments;
